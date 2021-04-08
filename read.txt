@@ -1,0 +1,1 @@
+This file contains the development of practical exercises to make python code, developed in the yandexpracticum course
